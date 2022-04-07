@@ -1,6 +1,6 @@
 
-##### My name is Parth I am a full-stack developer.
-##### I love coding and spending my time writing open-source code. 
+##### 🔥 My name is Parth I am a full-stack developer.
+##### 🙏 I love coding and spending my time writing open-source code. 
 
 #### My Stack is mainly JS,
 
