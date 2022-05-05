@@ -4,6 +4,8 @@
 
 #### My Stack is mainly JS,
 
+- Javascript
+- Typescript
 - Node.js.
 - Express.js.
 - Nest.js. 
