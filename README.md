@@ -17,7 +17,3 @@
 - Mysql
 - Elastic Search(Basic).
 
-
-### Certificates
-
-![Node.js basic certificate](https://ibb.co/3FGmc5P)
